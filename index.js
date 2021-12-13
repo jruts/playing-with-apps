@@ -9,7 +9,7 @@ const opts = {
     platformName: "Android",
     platformVersion: "11",
     deviceName: "Android Emulator",
-    app: "C:\\Users\\Jimmy\\code\\appy\\apk\\gorillas.apk",
+    app: "C:/Users/maur/Downloads/getir_v2.10.3_apkpure.com.apk",
     appPackage: "com.eddress.getgoodys",
     appWaitActivity: "*",
     appAwaitForLauch: true,
